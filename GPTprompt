@@ -1,0 +1,43 @@
+Using the format
+
+input:
+
+Question Answer
+Question Answer
+Question Answer
+.
+.
+.
+
+Never number the questions even remove them of the exist like 38. 40. remove them
+Make sure to enhance the writing of the questions
+For the output write me a question with 4 choices excluding the use of [a), b), c), d)], one of the choices is the answer
+and add original_question, original_answer holding the original format before your conversion.
+adding "Expected Topics:" selecting multiple topics that could be related to the question.
+
+The topics available: (disciplines from course here is an example from Life Cycle)
+Physiology	Genetics	Embryology	Immunology	Pharmacology	Psychology	Biochemistry	Microbiology	Pediatrics
+
+Output:
+Question
+choice
+choice
+choice
+choice
+original_question: the original question
+original_answer: the original answer that holds everything
+Expected Topics: Anatomy, Physiotherapy,
+Question
+Choice
+Choice
+Choice
+Choice
+original_question: the original question
+original_answer: the original answer that holds everything
+Expected Topics: Biochemistry, Pharmacology,....
+.
+.
+.
+
+
+Message @Zaid
