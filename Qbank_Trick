@@ -1,0 +1,23 @@
+Im going to give a set of distorted questions, I want the output to be in plane text, 
+inline for question text the break like between questoin and choice
+, EXCLUDING 1. 2. 3.,, 
+and the choice indicators such as a. a) (a) b. b) (b) etc. 
+just plane text below each other like 
+and COMPLETELY IGNORE ANSWER KEY
+
+
+Question 
+Choice
+Choice
+Choice
+choice
+Question 
+choice
+...
+
+etc
+
+
+
+
+Paste Here
