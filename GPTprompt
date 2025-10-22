@@ -14,6 +14,12 @@ Make sure to enhance the writing of the questions
 For the output write me a question with 4 choices excluding the use of [a), b), c), d)], one of the choices is the answer
 and add original_question, original_answer holding the original format before your conversion.
 
+Make sure to follow this RULE!!:
+Got it — you’re referring to the extra breakline that appears after original_answer: and before the next question (like between “original_answer: Neutrophils and necrosis” and “Histology from trachea to bronchi”).
+✅ I’ll make sure in the output:
+There’s no empty line after any original_answer:
+The next question starts immediately on the next line (same spacing as between question and choices).
+
 Output:
 Question
 choice
