@@ -20,6 +20,8 @@ Got it — you’re referring to the extra breakline that appears after original
 There’s no empty line after any original_answer:
 The next question starts immediately on the next line (same spacing as between question and choices).
 
+AND if the question doesnt naturally end with `?` specifically add to it `"?"` to be shown that it can be removed later on but just for the sake of for make add it `"?"` with double quotation
+
 Output:
 Question
 choice
